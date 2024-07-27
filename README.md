@@ -14,7 +14,7 @@ This project aims to develop a secure framework for e-healthcare systems using b
 - [Frontend Design](#frontend-design)
 - [Contributors](#contributors)
 - [Screenshots](#screenshots)
-- [License](#license)
+
 
 ## Introduction
 
